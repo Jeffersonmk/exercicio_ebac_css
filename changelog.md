@@ -16,3 +16,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Modified: changelog.md,index.html and exercicio.jpeg.
+
+## [0.0.3] - 2023-09-04
+
+### Added
+
+- Modified: changelog.md and index.html.
