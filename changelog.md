@@ -9,19 +9,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Created: changelog.md,index.html and main.css.
+- Created: changelog.md, index.html, main.css.  
+- Add: Imagens/bebendo agua.jpg,comida.jpeg, dipirona.jpg, exercicio.jpeg, sono.jpg.
+
 
 ## [0.0.2] - 2023-09-01
 
 ### Added
 
-- Modified: changelog.md,index.html and exercicio.jpeg.
+- Modified: changelog.md,index.html and Imagens/exercicio.jpeg.
+
 
 ## [0.0.3] - 2023-09-04
 
 ### Added
 
 - Modified: changelog.md and index.html.
+- Add:Imagens/chuva.jpg, diamante.jpg, holybible.jpg and tecnologiasono.jpeg.
 
 
 
@@ -30,3 +34,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Modified: changelog.md and index.html.
+- Add:Imagens/Elton-John.jpg,RATM.jpg,arnold-web.jpg,carro.jpg,deflacao.jpg,dolar-real.jpg,fmibrasil.jpg,idosoaposentado.jpg,infla\303\247\303\243o.jpg,moeda.jpg and yuan.jpg.
