@@ -22,3 +22,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Modified: changelog.md and index.html.
+
+
+
+## [0.0.4] - 2023-09-04
+
+### Added
+
+- Modified: changelog.md and index.html.
