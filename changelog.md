@@ -29,9 +29,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
-## [0.0.4] - 2023-09-04
+## [0.0.4] - 2023-09-05
 
 ### Added
 
 - Modified: changelog.md and index.html.
 - Add:Imagens/Elton-John.jpg,RATM.jpg,arnold-web.jpg,carro.jpg,deflacao.jpg,dolar-real.jpg,fmibrasil.jpg,idosoaposentado.jpg,infla\303\247\303\243o.jpg,moeda.jpg and yuan.jpg.
+
+
+
+## [0.0.5] - 2023-09-06
+
+### Added
+
+- Modified: changelog.md, index.html and main.css.
+
