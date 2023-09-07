@@ -44,3 +44,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Modified: changelog.md, index.html and main.css.
 
+## [0.0.5] - 2023-09-06
+
+### Added
+
+- Modified: main.css and changelog.md.
