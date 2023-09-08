@@ -6,6 +6,14 @@
 
 header li {
     display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 16px;
+}
+
+header li a {
+    color: whitesmoke;
+    text-decoration: none;
 }
 
 .container {
@@ -32,7 +40,8 @@ header .container{
 }
 
 .articles article img {
-    height: 180px;
+    /*height: 180px;*/
+    width: 100%;
 }
 
 .articles article {
@@ -86,4 +95,28 @@ section h2{
 
 #saude .articles article a {
     background-color:rgba(255, 0, 0, 0.8);
+}
+
+#tecnologia {
+    background-color: rgba(0, 255, 221, 0.1);
+}
+
+#tecnologia .articles article a {
+    background-color: rgba(0, 26, 255, 0.8);
+}
+
+#entretenimento {
+    background-color: rgba(255, 251, 0, 0.1);
+}
+
+#entretenimento .articles article a {
+    background-color: rgba(187, 174, 0, 0.8);
+}
+
+#economia {
+    background-color: rgba(0, 255, 42, 0.1);
+}
+
+#economia .articles article a {
+    background-color: rgba(29, 126, 5, 0.8);
 }
